@@ -67,6 +67,13 @@ O hábito de ler vai deixar seu vocabulário mais rico, fazendo com que tu escre
 
 O hábito de ler vai te transformar em um líder, pois tu vai ser um incentivador de outras pessoas.
 
+Dado que muitas pessoas não sabem por onde começar ou qual livro ler, vou listar abaixo algumas dicas de livros e dissertar um pouco sobre cada um deles. Vai estar por tópico para que seja mais simples de acompanhar. Esses são livros que eu tenho como referência, portanto, se trata de minha opinião:
+
+[Livros para melhorar a forma de abordar as pessoas](Wip);
+[Agile Testing](Wip);
+[Processo de Desenvolvimento Ágil](Wip);
+[Automação de Testes e Desenvolvimento Ruby](Wip);
+
 ## Concluindo ...
 
 - Líderes, incentivem seus liderados ao hábito da leitura;
