@@ -75,7 +75,7 @@ Dado que muitas pessoas não sabem por onde começar ou qual livro ler, vou list
 
 [Processo de Desenvolvimento Ágil](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/processo-agile.md);
 
-[Automação de Testes e Desenvolvimento Ruby](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/referencias-automacao-programacao.md);
+[Automação de Testes e Desenvolvimento Ruby](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/referencias-automacao-programacao.md).
 
 ## Concluindo ...
 
