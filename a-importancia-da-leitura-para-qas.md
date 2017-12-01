@@ -69,10 +69,13 @@ O hábito de ler vai te transformar em um líder, pois tu vai ser um incentivado
 
 Dado que muitas pessoas não sabem por onde começar ou qual livro ler, vou listar abaixo algumas dicas de livros e dissertar um pouco sobre cada um deles. Vai estar por tópico para que seja mais simples de acompanhar. Esses são livros que eu tenho como referência, portanto, se trata de minha opinião:
 
-[Livros para melhorar a forma de abordar as pessoas](Wip);
-[Agile Testing](Wip);
-[Processo de Desenvolvimento Ágil](Wip);
-[Automação de Testes e Desenvolvimento Ruby](Wip);
+[Livros para melhorar a forma de abordar as pessoas](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/livros-dia-a-dia.md);
+
+[Agile Testing](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/agile-testing.md);
+
+[Processo de Desenvolvimento Ágil](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/processo-agile.md);
+
+[Automação de Testes e Desenvolvimento Ruby](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/referencias-automacao-programacao.md);
 
 ## Concluindo ...
 
