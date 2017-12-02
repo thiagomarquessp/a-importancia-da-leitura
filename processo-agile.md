@@ -14,4 +14,4 @@ Nessa lista vou colocar meus livros prediletos quando o assunto é processo de d
 
 [Scrum: a arte de fazer o dobro do trabalho na metade do tempo](https://goo.gl/xyjKsL) para quem gosta de uma leitura rápida sobre conceitos, esse é um livro bom, mas não se apegue muito nele, é muito fraquinho, mas para quem ta no -1 e quer chegar ao nível 0 é um bom começo.
 
-[Home](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/a-importancia-da-leitura-para-qas.md)
+[Home](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/README.md)
