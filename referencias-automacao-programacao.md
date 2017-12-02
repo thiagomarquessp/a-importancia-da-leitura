@@ -22,4 +22,4 @@ Nem vou dissertar sobre essa lista, ta bem explícita =).
 
 [Dominando JavaScript com jQuery](https://goo.gl/3acBkQ) assim como o de Ruby, é de um aprendizado surreal sobre Jquery e no meu caso, que gosto de Jquery, consigo aplicar na minha automação e melhoro a busca de elementos.
 
-[Home](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/a-importancia-da-leitura-para-qas.md)
+[Home](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/README.md)
