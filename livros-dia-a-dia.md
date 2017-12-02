@@ -12,4 +12,4 @@ Bem, nessa lista eu gostaria de mencionar alguns livros que me ajudam e me ajuda
 
 São livros que me ajudaram muito e que podem ajudar vocês também. Mas antes de entrar no modo operandis de criticar pelo título, primeiro leia a sinopse e leia também a classificação desse livro e comentários de pessoas que já o leram.
 
-[Home](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/a-importancia-da-leitura-para-qas.md)
+[Home](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/README.md)
