@@ -37,16 +37,19 @@ Então como eu divido minha leitura:
 *Manhã:*
 
 **Hábito:** Leitura técnica em inglês.
+
 **Recompensa:** Melhora no vocabulário inglês e melhor entendimento técnico de alguma coisa que eu queira estudar.
 
 *Tarde*
 
 **Hábito:** Ler e estudar a cada 10 dias (eu chamo de dia do estudo) na empresa e se possível, fazer um diário de bordo sobre o tema estudado e se possível, aplicar no seu dia a dia.
+
 **Recompensa:** Abstração da rotina diária de minhas funções e dedicar esforço a uma nova prática ou técnica ou conhecer algum assunto que foge do meu ciclo profissional. Isso faz com que eu não entre na rotina de gambiarras que tanto assombram os times de desenvolvimento.
 
 *Noite*
 
 **Hábito:** Leitura meia hora antes de dormir de algum assunto fora do âmbito profissional, pois é um momento em que eu quero me livrar da pressão de ter de estudar algo antes de dormir. Geralmente leio livros não técnicos.
+
 **Recompensa:** Esvazio a mente de um dia de trabalho e chego ao sono mais rápido do que assistindo tv.
 
 ## Para os pais
@@ -63,7 +66,7 @@ A cada dia que passa as empresas mais modernas estão preocupadas com o fator le
 
 É importante o hábito de ler porque Code Review é uma prática que vem amadurecendo, e se tu não tem paciência de ler, vai fazer um Code Review muito mal feito.
 
-O hábito de ler vai deixar seu vocabulário mais rico, fazendo com que tu escreva um email melhor, uma história de usuário melhor, critérios de aceite mais acertivos.
+O hábito de ler vai deixar seu vocabulário mais rico, fazendo com que tu escreva um email melhor, uma história de usuário melhor, critérios de aceite mais assertivos.
 
 O hábito de ler vai te transformar em um líder, pois tu vai ser um incentivador de outras pessoas.
 

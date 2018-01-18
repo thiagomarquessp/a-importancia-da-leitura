@@ -14,4 +14,4 @@ Esses livros são minhas fontes de referência sobre o assunto.
 
 Algumas pessoas gostam do conteúdo do ISTQB sobre Agile Testing, eu tenho uma opinião formada sobre esse orgão e lendo sobre o AT eu particularmente não gostei.
 
-[Home](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/a-importancia-da-leitura-para-qas.md)
+[Home](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/README.md)
