@@ -14,4 +14,6 @@ Nessa lista vou colocar meus livros prediletos quando o assunto é processo de d
 
 [Scrum: a arte de fazer o dobro do trabalho na metade do tempo](https://goo.gl/xyjKsL) para quem gosta de uma leitura rápida sobre conceitos, esse é um livro bom, mas não se apegue muito nele, é muito fraquinho, mas para quem ta no -1 e quer chegar ao nível 0 é um bom começo.
 
+[Agile Estimating and Planning](https://goo.gl/sCWHBA) é mais um livro da série do Uncle Bob (como por exemplo Clean Code) e é um livro de cabeceira para quem quer ajudar o time de desenvolvimento no mindset de estimativas e o que fazer com essa informação. Eu realmente gostei desse livro e temos a capacidade de mudança de mindset quando o assunto é estimativas.
+
 [Home](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/a-importancia-da-leitura-para-qas.md)
