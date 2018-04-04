@@ -6,6 +6,8 @@ Nessa lista vou colocar meus livros prediletos quando o assunto é processo de d
 
 [Tudo que sei sobre Lean aprendi no primeiro ano de escola](https://goo.gl/TFo1vp) é um livro de leitura rápida e extremamente explicativo, ou seja, para aqueles que não gostam de termos mais técnicos, ele aborda de maneira super inteligente o tema.
 
+[Isto é Lean: Resolvendo o Paradoxo de eficiência](https://goo.gl/4wynUE) terminei recentemente e é um dos melhores livros sobre Lean que eu li juntamente com Implementando o Desenvolvimento ... como disse acima. Esse livro traz clareza com termos "meio técnicos" (vou chamar assim), ou seja, leia o primeiro e depois se aventure nesse para te dar uma "carga" extra de conhecimento. Encontrei a resposta que precisava de um estudo que estou desenvolvendo sobre Lean, QA e Bug Zero (mas isso é outro fórum). 
+
 [Agile Retrospectives](https://goo.gl/mhmh8i) é um livro para aqueles que querem fugir da rotina de "pontos negativos e positivos de uma sprint". Ele aborda de maneira direta como realizar diversos tipos de retrospectivas e como agir de maneira que possamos melhorar o processo de desenvolvimento através dos dados que colhemos a cada iteração.
 
 [Coaching Agile Teams](https://goo.gl/rCZ7kg) é um livro interessante, porém não terminei de ler, mas mostra técnicas e maneiras de mudar o mindset do time, até tentei aplicar um conceito ou outro, mas ainda estou aprendendo sobre o tema para conseguir aplicar.
