@@ -6,6 +6,10 @@ Bem, nessa lista eu gostaria de mencionar alguns livros que me ajudam e me ajuda
 
 [Soft Skills: The Software Developer's Life Manual](https://goo.gl/pg2sQ7), minha opinão bem sincera é que esse livro é bem OK, mas nada de mais e indo além, em diversos pontos do livro ele cita o livro Como Fazer Amigos e Influenciar Pessoas. Agora, se tu nunca leu algo sobre o tema, eu acho um livro relevante. Ele aborda soft skills sob a perspectiva de uma pessoa mais técnica e como ela deve encarar cenas como a carreira, como lidar com pares, como se tornar um profissional e deixar de ser um amador, etc. Agora, se tu leu algo do Dale Carnegie, não vale pagar essas cifras por esse livro.
 
+[The Software Craftsman](https://goo.gl/i7wESj)é sem dúvida o **melhor** livro que li, ele basicamente nos molda como profissionais no ramo de tecnologia e como agir em vários contextos, e indo além, conta experiências do próprio Sandro Mancuso. Se procuram um livro que nos indique como sermos melhores profissionais, esse é sem dúvida o melhor.
+
+[The Clean Coder](https://goo.gl/jDtmjU), como diz no título, trata-se do código de conduta do profissional de tecnologia. Para nós **testers** tem pelo menos dois capítulos dedicados.
+
 [Abraham Lincoln](https://goo.gl/Pg6DVa) é um livro que li recentemente e sempre quando eu escuto sobre liderança e a maneira de como alguém lida com alguma pessoa, exemplos como Abraham Lincoln, Mandela e Martin Luther King vem sempre nos exemplos e é um excelente livro para que tu possa entender um pouco sobre como obter paciência, como ter um momento de reflexão na maneira de como lidamos com as pessoas e que possamos nos inspirar em líderes assim.
 
 [Autobiografia de Martin Luther King](https://goo.gl/fHarSF) é de longe um dos livros mais completos que eu li sobre liderança e como lutar por seus direitos da maneira correta.
