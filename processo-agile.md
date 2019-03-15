@@ -18,4 +18,8 @@ Nessa lista vou colocar meus livros prediletos quando o assunto é processo de d
 
 [Agile Estimating and Planning](https://goo.gl/sCWHBA) é mais um livro da série do Uncle Bob (como por exemplo Clean Code) e é um livro de cabeceira para quem quer ajudar o time de desenvolvimento no mindset de estimativas e o que fazer com essa informação. Eu realmente gostei desse livro e temos a capacidade de mudança de mindset quando o assunto é estimativas.
 
+[Actionable Agile Metrics for Predictability](https://amzn.to/2T8BNr0). Eu sei o que você ta pensando, que métricas é um saco, mas admita, é de fundamental importância colocarmos em prática o hábito de medir as coisas dentro dos nossos times. Esse é o meu livro favorito sobre métricas e é a literatura que vem me ajudando dia após dia a melhorar o meu conhecimento teórico e prático sobre o tema.
+
+[Real-World Kanban](https://amzn.to/2TCHnH8) é meu livro favorito sobre Kanban, e por ser entusiasta nesse modelo de trabalho, associado com **LEAN** me faz escolher esse livro como uma bíblia para abordar os dois temas.
+
 [Home](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/a-importancia-da-leitura-para-qas.md)
