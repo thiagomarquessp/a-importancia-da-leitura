@@ -6,7 +6,7 @@ Nem vou dissertar sobre essa lista, ta bem explícita =).
 
 [Cucumber Recipes: Automate Anything with BDD Tools and Techniques](https://goo.gl/ekjJjo) mesmo depois de uns anos trabalhando com Cucumber rola algum contexto que me gerou dúvida e lá tem a receita para resolver esse problema, ou seja, é um stackoverflow em livro. Vale muito a pena.
 
-[Specification by Example: How Successful Teams Deliver the Right Software ](https://goo.gl/FYBnxw) é um livro essencial para que de uma vez por todas possamos parar de confundir com BDD.
+[Specification by Example: How Successful Teams Deliver the Right Software ](https://goo.gl/FYBnxw) é um livro essencial aprendermos como criar especificações com muito valor. Aborda a questão de como trabalhar próximos de todas as áreas da empresa, buscando sempre melhora contínua.
 
 [The RSPEC Book](https://goo.gl/1DJCS8) é um livro completo para aprender o conceito sobre RSPEC, para quem ta iniciando, recomendo a leitura e acompanhamento desse livro e aprender como trabalhar de forma efetiva.
 
