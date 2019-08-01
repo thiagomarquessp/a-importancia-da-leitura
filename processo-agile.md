@@ -22,4 +22,6 @@ Nessa lista vou colocar meus livros prediletos quando o assunto é processo de d
 
 [Real-World Kanban](https://amzn.to/2TCHnH8) é meu livro favorito sobre Kanban, e por ser entusiasta nesse modelo de trabalho, associado com **LEAN** me faz escolher esse livro como uma bíblia para abordar os dois temas.
 
+[Extreme Programming - By Kent Beck](https://www.amazon.com/gp/product/B00N1ZN6C0/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) terminei recentemente e olha, vc aprende que tudo que vc conhece de conceito e filosofia de trabalho ta tudo errado e que precisamos muito rever a maneira de como trabalhamos no nosso dia a dia com a disciplina de tecnologia, pessoas e processos. Entrou no top 5.
+
 [Home](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/a-importancia-da-leitura-para-qas.md)
