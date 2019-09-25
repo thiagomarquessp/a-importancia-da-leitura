@@ -1,4 +1,4 @@
-# Livros sobre Agile Testing
+# Livros sobre Qualidade de Software
 
 Nessa nova atualização resolvi mudar o tópico e direcionar diretamente para a nossa área de Qualidade de Software e não apenas seguir com livros de Agile Testing, apesar de ser essa a filosofia que eu acredito para uma melhor abordagem quando falamos dessa disciplina e ultimamente venho estudando a base da qualidade de software, para tentar não apenas focar em automação de testes, que certamente ganhou uma força descomunal, mas que não vem resolvendo o problema de ninguém, pois cada dia que passa mais empresas mantém seus software em produção cheios de bug, ou seja, automatizar ou não só vai fazer ter a buzzword dentro da empresa, tapando os olhos para os verdadeiros problemas, como o aspecto cultural que venho fortmente atuando no decorrer de alguns anos e para que isso seja possível de ser feito, é necessário voltar para a base da disciplina, e atuar diretamente na transformação.
 
