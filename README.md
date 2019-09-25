@@ -74,7 +74,7 @@ Dado que muitas pessoas não sabem por onde começar ou qual livro ler, vou list
 
 [Livros para melhorar a forma de abordar as pessoas](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/livros-dia-a-dia.md);
 
-[Agile Testing](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/agile-testing.md);
+[Qualidade de Software](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/qualidade_software.md);
 
 [Processo de Desenvolvimento Ágil](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/processo-agile.md);
 
