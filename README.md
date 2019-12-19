@@ -80,6 +80,7 @@ Dado que muitas pessoas não sabem por onde começar ou qual livro ler, vou list
 
 [Automação de Testes e Desenvolvimento Ruby](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/referencias-automacao-programacao.md).
 
+## Clube do Livro
 [Como começar um clube do livro?](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/clube-do-livro.md)
 
 ## Concluindo ...
