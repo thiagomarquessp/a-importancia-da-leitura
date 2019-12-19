@@ -54,13 +54,13 @@ Então como eu divido minha leitura:
 
 ## Para os pais
 
-Fui pai recentemente e sempre tive a vontade de ler para meus filhos e peguei esse hábito mesmo com um recém nascido de ler antes dele dormir (no momento que o faço arrotar no último período do dia) e leio pra ele ao menos 10 minutos e tem sido uma experiência única na vida. Ler para alguém também é leitura, e para uma criança é se transformar na principal referência para ela. Pensem nisso =).
+Ler para alguém também é leitura, e para uma criança é se transformar na principal referência para ela, fora que deixa aflorar tanto o seu lado criativo, quanto o da criança, pois durante a leitura, um mundo se abre na cabeça da criança, que faz com que ela pergunte coisas a você, pede para fazer a voz do personagem, ou seja, é mágico. Pensem nisso =).
 
 ## A importância de ler na área de QA
 
 Foquei a área de QA porque é a área em que atuo e ultimamente venho ajudando em processos de seleção nas últimas empresas que trabalhei e sempre pergunto aos QAs quando foi o último livro que leu e como essa é uma pergunta que ninguém espera, o festival de gente gaguejando é fantástico, porque simplesmente não sabem dizer qual foi o último livro que leu, e nem falo de ser um livro técnico, pode ser romance, pode ser a Bíblia, pode ser qualquer livro, ou quando eu pergunto o que a pessoa faz para se manter atualizada e também não sabem responder. Não consegui identifcar se a pessoa no momento em que é pega de surpresa com a pergunta não se recorda de algum meio de se manter atualizada ou se realmente não se interessa. Em alguns casos pergunto sobre o que de fato é interessante nos frameworks de automação que a pessoa trabalha, chego a perguntar sobre releases e atualizações das bibliotecas e o que foi alterado e simplesmente não sabem responder.
 
-A cada dia que passa as empresas mais modernas estão preocupadas com o fator leitura de seus funcionários, criando bibliotecas, incentivando com um valor mensal para usufruir em livros, e isso é importante. Aqui na OLX Portugal temos incentivo a leitura com uma biblioteca física de livros , basta pedirmos e eles compram. Na equipe de testes que estamos montando eu sempre pergunto sobre o fator leitura, não que isso seja determinante para aprovar ou não, mas os que possuem o hábito de ler saem na frente.
+A cada dia que passa as empresas mais modernas estão preocupadas com o fator leitura de seus funcionários, criando bibliotecas, incentivando com um valor mensal para usufruir em livros, e isso é importante. Aqui em Portugal, nas empresa que eu tenho passado, essa cultura é pensada, tanto que na empresa que estou atualmente, pude incentivar a criação dessa biblioteca, que será inaugurada já em 2020 e uma vez criada, concentrar no hábito é questão de tempo.
 
 É importante a leitura para nós QAs não apenas os conceitos técnicos como programação, frameworks de automação e sim temas como Agile, Lean e também conteúdos que melhorem suas soft skills. O hábito de ler faz com que no primeiro problema que temos vamos atrás da informação no google ao invés do comodismo de pedir ajuda para uma pessoa que fatalmente sabe te responder.
 
@@ -80,13 +80,19 @@ Dado que muitas pessoas não sabem por onde começar ou qual livro ler, vou list
 
 [Automação de Testes e Desenvolvimento Ruby](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/referencias-automacao-programacao.md).
 
+[Como começar um clube do livro?](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas/blob/master/clube-do-livro.md)
+
 ## Concluindo ...
 
 - Líderes, incentivem seus liderados ao hábito da leitura;
 - QAs, adquiram o hábito de ler, de estudar, de compartilhar conhecimento. Sejam formadores e utilizem o talento que está dentro de cada um para formar novas pessoas, novos QAs e novos seres humanos.
 
+Não é necessária se prender em apenas livros relacionados a nossa área, o próprio **Robert "Uncle Bob" Martin**, no livro **Clean Coder** indica livros de romance e ficção científica para continuar com o processo criativo sempre ativo.
+
 Eu amo ler, hoje eu tenho uma média alta de leitura anual graças ao hábito de ler. Não se prendam em apenas livros técnicos, comecem por livros que realmente vos agrada para que tenha o gosto da leitura e depois inclui livros técnicos a sua pauta de estudos.
 
 Kindle para leitura acelera esse hábito, pois é leve e sim, é barato, R$24.90 tu faz assinatura mensal. Mas por hora acabou a propaganda da Amazon rsrs.
+
+Caso queiram criar um clube do livro comigo, vamos a isso e me mande um email: thiagomplk@gmail.com.
 
 Um abraço.
