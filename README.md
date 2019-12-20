@@ -64,7 +64,7 @@ A cada dia que passa as empresas mais modernas estão preocupadas com o fator le
 
 É importante a leitura para nós QAs não apenas os conceitos técnicos como programação, frameworks de automação e sim temas como Agile, Lean e também conteúdos que melhorem suas soft skills. O hábito de ler faz com que no primeiro problema que temos vamos atrás da informação no google ao invés do comodismo de pedir ajuda para uma pessoa que fatalmente sabe te responder.
 
-É importante o hábito de ler porque Code Review é uma prática que vem amadurecendo, e se tu não tem paciência de ler, vai fazer um Code Review muito mal feito.
+Hoje em dia em times de auto desempenho, a prática de Code Review está cada vez mais comum, fazendo com que tenhamos que ler e o mais importante, entender o que ali está e se não tivermos o hábito da leitura e o gosto, fatalmente faremos um pessimo review.
 
 O hábito de ler vai deixar seu vocabulário mais rico, fazendo com que tu escreva um email melhor, uma história de usuário melhor, critérios de aceite mais assertivos.
 
