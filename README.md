@@ -66,9 +66,11 @@ O hábito de ler faz com que no primeiro problema que temos vamos atrás da info
 
 Atualmente em times de auto desempenho, a prática de Code Review está cada vez mais comum, assim como pair programming, fazendo com que tenhamos que ler e o mais importante, entender o que ali está e se não tivermos o hábito da leitura e o gosto, fatalmente faremos um pessimo review.
 
-O hábito de ler vai deixar seu vocabulário mais rico (tanto em sua língua nativa, como em qualquer outro idioma que estiveres estudando), fazendo com que tu escrevas um email melhor, uma história de usuário melhor, critérios de aceite mais assertivos, enfim, consegue se comunicar com figuras de linguagem estando em ambiente formal e informal.
+O hábito de ler vai nos deixar com o vocabulário mais rico (tanto em sua língua nativa, como em qualquer outro idioma que estiveres estudando), fazendo com que tu escrevas um email melhor, uma história de usuário melhor, critérios de aceite mais assertivos, enfim, consegue se comunicar com figuras de linguagem estando em ambiente formal e informal.
 
 O hábito de ler vai te transformar em um líder, pois passamos a ser incentivadores de outras pessoas.
+
+A leitura nos da condições intelectuais para criarmos teses e poder defendê-las.
 
 Dado que muitas pessoas não sabem por onde começar ou qual livro ler, vou listar abaixo algumas dicas de livros e dissertar um pouco sobre cada um deles. Vai estar por tópico para que seja mais simples de acompanhar. Esses são livros que eu tenho como referência, portanto, se trata de minha opinião:
 
