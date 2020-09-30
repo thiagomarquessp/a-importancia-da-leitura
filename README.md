@@ -64,7 +64,7 @@ A cada dia que passa as empresas mais modernas estão preocupadas com o fator le
 
 O hábito de ler faz com que no primeiro problema que temos vamos atrás da informação no google ao invés do comodismo de pedir ajuda para uma pessoa que fatalmente sabe te responder.
 
-Atualmente em times de auto desempenho, a prática de Code Review está cada vez mais comum, assim como pair programming, fazendo com que tenhamos que ler e o mais importante, entender o que ali está e se não tivermos o hábito da leitura e o gosto, fatalmente faremos um pessimo review.
+Atualmente, em times de alto desempenho, a prática de Code Review está cada vez mais comum, assim como pair programming, fazendo com que tenhamos que ler e, o mais importante, entender o que ali está e se não tivermos o hábito da leitura e o gosto, fatalmente faremos um pessimo review.
 
 O hábito de ler vai nos deixar com o vocabulário mais rico (tanto em sua língua nativa, como em qualquer outro idioma que estiveres estudando), fazendo com que tu escrevas um email melhor, uma história de usuário melhor, critérios de aceite mais assertivos, enfim, consegue se comunicar com figuras de linguagem estando em ambiente formal e informal.
 
