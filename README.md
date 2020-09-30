@@ -1,4 +1,4 @@
-# A importância da leitura para QAs
+# A importância da leitura
 
 Já parou para pensar quando foi o último livro que tu leu ou quando foi a última vez que tu discutiu sobre algum livro ou mesmo quando tu indicou algum livro para algum amigo ou conhecido?
 
